@@ -4,7 +4,7 @@ Staj ve okul sürecinde yürüttüğüm projeler.
 
 | Proje | Açıklama | Durum |
 |---|---|---|
-| [Basınç Test Düzeneği](Basinc_Test_Duzenegi/) | Basınç üretip referans sensörle ölçen test düzeneğinin ilk prototipi | Devam ediyor |
+| [Basınç Test Düzeneği](https://github.com/berilmrc/staj/tree/main/Basinc_Test_Duzenegi) | Basınç üretip referans sensörle ölçen test düzeneğinin ilk prototipi (staj reposuna taşındı) | Devam ediyor |
 
 ---
 
